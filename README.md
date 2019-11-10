@@ -1,0 +1,1 @@
+Demo of 'Introduction to GraphQL' takl at Spech&Tech. It will be an wasy wrapper of SWAPI

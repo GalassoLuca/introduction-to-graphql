@@ -1,0 +1,12 @@
+{
+  "name": "graphql-speck-and-tech",
+  "version": "1.0.0",
+  "description": "Demo of 'Introduction to GraphQL' takl at Spech&Tech. It will be an wasy wrapper of SWAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "javascript", "graphql", "js", "node" ],
+  "author": "Luca Galasso",
+  "license": "MIT"
+}
