@@ -6,7 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [ "javascript", "graphql", "js", "node" ],
+  "keywords": [
+    "javascript",
+    "graphql",
+    "js",
+    "node"
+  ],
   "author": "Luca Galasso",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.9.7",
+    "graphql": "^14.5.8"
+  }
 }
