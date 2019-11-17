@@ -1,4 +1,14 @@
-Demo of 'Introduction to GraphQL' takl at Spech&Tech. It will be an wasy wrapper of SWAPI
+Demo of 'Introduction to GraphQL' talk
+
+## Folder Structure
+ - ./lib/index-apollo.js
+   - example from https://www.apollographql.com/docs/apollo-server/getting-started/
+ - ./lib/index-library.js
+   - the example from the Slides of the talk
+ - ./lib/index-library-with-mutation.js
+   - previous with the mutation
+ - ./lib/index-swapi.js
+   - a simple wrapper of SWAPI
 
 ## Slides
 
